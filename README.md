@@ -12,5 +12,7 @@ The game ends either when everyone have chosen to be egoists (you must restart t
 TO RUN:
 
 Run in Python 3, any version
+
 You can download Python here: https://www.python.org/downloads/
+
 Open main.py and run program (short cut F5 or fn + F5 on Macs).
