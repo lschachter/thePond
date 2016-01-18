@@ -1,5 +1,7 @@
-# graphics.py
+# graphics.py ZELLE PRODUCT
 """Simple object oriented graphics library  
+
+CREATED BY ZELLE
 
 The library is designed to make it very easy for novice programmers to
 experiment with computer graphics in an object oriented fashion. It is
